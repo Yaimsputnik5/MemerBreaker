@@ -1,0 +1,22 @@
+#!/bin/bash
+
+clear && clear
+echo "Compiling MemerBreaker Release, Please Be Patient..."
+scripts/clean
+source scripts/variables
+mkdir release
+
+for OS in "windows" "darwin" "linux"; do
+  DIR="release/memerbreaker-${VERSION}-${OS}-amd64"
+  MEMERBREAKER="memerbreaker"
+
+  if [ "${OS}" = "windows" ]; then
+    MEMERBREAKER="${MEMERBREAKER}.exe"
+  fi
+
+  mkdir "${DIR}"
+  cp config.yml "${DIR}"
+  GOROOT_FINAL=/ GOOS=${OS} GOARCH=amd64 go build -ldflags "-w -s" -v -o "${DIR}/${MEMERBREAKER}" .
+  zip -vr9j "${DIR}".zip "${DIR}"/*
+  rm -rf "${DIR}"
+done

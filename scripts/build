@@ -1,0 +1,12 @@
+#!/bin/bash
+
+clear && clear
+echo "Building MemerBreaker, Please Be Patient..."
+scripts/clean
+mkdir build
+MEMERBREAKER="memerbreaker"
+
+if [ "${GOOS}" = "windows" ]; then
+  MEMERBREAKER="${MEMERBREAKER}.exe"
+fi
+go build -v -o "build/${MEMERBREAKER}" .

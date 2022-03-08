@@ -1,0 +1,6 @@
+#!/bin/bash
+
+clear && clear
+echo "Cleaning Up Previous MemerBreaker Build, Please Be Patient..."
+go clean
+rm -rf release build logs ./MemerBreaker
