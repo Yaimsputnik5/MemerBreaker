@@ -40,7 +40,7 @@ Wish to contribute? [Please Read Our Contribution Guidelines](https://github.com
 
 ### Getting an authorization token
 1. Go to Discord, logged into the account you want to use
-2. Open the inspector by pressing `ctrl` + `shift` + `i`
+2. Open the inspector by pressing & holding `Ctrl` + `Shift` + `I`
 3. Click the "network" tab
 4. Refresh the page
 5. Look for any entry called "science" and click on it
