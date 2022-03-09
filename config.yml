@@ -96,7 +96,7 @@ features:
     minimum_balance: 5000000
   auto_blackjack:
     enable: true # The Name's Bond... James Bond
-    amount: 1000
+    amount: 5000
     pause_below_balance: 100
     pause_above_balance: 50000000
     logic_table:
