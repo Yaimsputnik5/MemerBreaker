@@ -29,14 +29,14 @@ Wish to contribute? [Please Read Our Contribution Guidelines](https://github.com
 3. [Configure](#configuration). Make sure `token` and `channel_id` fields of the instance are set, it will not run otherwise
 
 #### Windows
-4. Double click memerbreaker.exe. If the program closes immediately after opening it, open a command prompt and drag the executable to it, then hit enter. You will now be able to see the error
+4. Double click MemerBreaker.exe. If the program closes immediately after opening it, open a command prompt and drag the executable to it, then hit enter. You will now be able to see the error
 
 #### Linux
 4. Run the binary:  
-   `$ ./memerbreaker`
+   `$ ./MemerBreaker`
 
 #### macOS
-4. Run by double clicking the memerbreaker binary
+4. Run by double clicking the MemerBreaker binary
 
 ### Getting an authorization token
 1. Go to Discord, logged into the account you want to use
