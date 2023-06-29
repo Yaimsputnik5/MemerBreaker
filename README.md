@@ -1,7 +1,7 @@
 # Memer Breaker [![](https://goreportcard.com/badge/github.com/Yaimsputnik5/MemerBreaker)](https://goreportcard.com/report/github.com/Yaimsputnik5/MemerBreaker) ![](https://img.shields.io/github/license/Yaimsputnik5/MemerBreaker) [![](https://img.shields.io/github/v/release/Yaimsputnik5/MemerBreaker)](https://github.com/Yaimsputnik5/MemerBreaker/releases/latest) ![](https://img.shields.io/github/downloads/Yaimsputnik5/MemerBreaker/total)
 
 [Join Our Community Server!](https://discord.gg/Uwky7sNzGZ) & [Join Our Suppport Discord!](https://discord.gg/JsGyaT9Ecg)
-Have any questions? [Create A Question Issue](https://github.com/Yaimsputnik5/MemerBreaker/issues/new?assignees=&labels=question&template=question.md&title=). Want Want to suggest a feature? [Create a suggestion issue](https://github.com/Yaimsputnik5/MemerBreaker/issues/new?assignees=&labels=suggestion&template=suggestion.md&title=)
+Have any questions? [Create A Question Issue](https://github.com/Yaimsputnik5/MemerBreaker/issues/new?assignees=&labels=question&template=question.md&title=). Want to suggest a feature? [Create a suggestion issue](https://github.com/Yaimsputnik5/MemerBreaker/issues/new?assignees=&labels=suggestion&template=suggestion.md&title=)
 Encountering a bug? [Report A Bug](https://github.com/Yaimsputnik5/MemerBreaker/issues/new?assignees=&labels=bug&template=bug-report.md&title=)
 Wish to contribute? [Please Read Our Contribution Guidelines](https://github.com/Yaimsputnik5/MemerBreaker/blob/master/CONTRIBUTING.md).
 
